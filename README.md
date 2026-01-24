@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello! 👋 I'm Alyanna Diaz
+### 🌱 Education
+- Computer Science Major
+- Bachelor of Science in Managment Information Systems
+- Associate of Science in Business Administration
 
-<!--
-**alyanna-diaz/alyanna-diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📕 Languages
+- Java
+- JavaScript
+- Python
+- SQL
+- C++
+- HTML/CSS
 
-Here are some ideas to get you started:
+### 🛠 Software
+- Visual Studio Code
+- Microsoft Visual Studio
+- NetBeans
+- Eclispe
+- MySQL
+- GitHub
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Upcoming Projects
+- Personal Website - A resume website using HTML and CSS that will hopefully demonstrate my experience and skillset better than my current resume.
+  
+- Game Development Club Art - The background pixel art for a boss level in a game that will be added to an arcade cabinet that my club is currently working on.

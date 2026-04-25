@@ -12,7 +12,6 @@ body {
 
 .navigation li {
   float: left;
-  justify-content: center;
 }
 
 .navigation a {

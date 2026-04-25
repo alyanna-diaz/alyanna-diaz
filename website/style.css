@@ -12,6 +12,7 @@ body {
 
 .navigation li {
   float: left;
+  list-type-style: none;
 }
 
 .navigation a {

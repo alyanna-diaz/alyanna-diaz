@@ -8,6 +8,7 @@ body {
   padding: 0;
   overflow: hidden;
   background-color: #103017;
+  justify-content: center;
 }
 
 .navigation li {

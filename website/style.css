@@ -1,3 +1,28 @@
 body {
   background-color: #F5F5BC;
 }
+
+.navigation ul {
+  list-type-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #103017;
+}
+
+.navigation li {
+  float: left;
+}
+
+.navigation a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navigation a:hover {
+  background-color: #58D674;
+  color: #212121;
+}

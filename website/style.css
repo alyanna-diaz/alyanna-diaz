@@ -28,3 +28,7 @@ body {
   background-color: #58D674;
   color: #212121;
 }
+
+.heading {
+  text-decoration: none;
+}

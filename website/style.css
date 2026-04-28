@@ -31,4 +31,5 @@ body {
 
 .heading a {
   text-decoration: none;
+  color: inherit;
 }

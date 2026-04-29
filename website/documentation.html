@@ -25,7 +25,71 @@
     </header>
     
     <main>
+      <h1>About This Project</h1>
+      <!-- Currently incohesive babbling. Will need to fix later no matter what I do with this file. -->
+      <!-- Will definitely need to reorganize these sections -->
+      <!-- Remember to standardize the terminology -->
       
+      <div>
+        <h2>Creating the Website</h2>
+        
+        <p>
+          I started by creating the main page (index.html). Then I decided I wanted to put everything in one folder so I created that, 
+          put index.html in there and created all the other pages. I created a different page for each section of my resume. After that I 
+          added most of the basic tags (html, head, title, body, and footer) to index.html and copy/pasted it to the other pages. Then I 
+          created the css page and linked the pages to that.
+        </p>
+        
+        <p> 
+          I tried to publish the website using GitHub, but I ran into problems because 
+          apparently I can only publish the repository as a whole and not a single folder. I'm still not sure how projects work, so I figured 
+          I'd continue writing the code in my personal repository for now. It took me a few commits before I realized I had to change the Pages
+          setting to stop getting emails about page deployment errors.
+        </p>
+      </div>
+
+      <div>
+        <h2>Adding Basic Content</h2>
+
+        <p>
+          This first thing I did was change the title and add a short intro to index.html. After I confirmed the pages worked in Explorer, I changed 
+          the titles of the education, experience, and skills pages, and changed their titles. Then I added some contact details to contact.html. At 
+          this point I realized I should start adding comments.
+        </p>
+
+        <p>
+          I added navigation on index.html first. Then I copy/pasted it to the other pages. Since I haven't written in html is a while, I forgot that 
+          it's common practice to make the navigation a list. I also added the class "navigation" to the index.html nav tag to test out how I wanted 
+          the menu to look.
+        </p>
+      </div>
+
+      <div>
+        <!-- Might be too general a name -->
+        <h2>Design Choices</h2>
+
+        <p>
+          After creating the navigation, I wanted to experiment with css. I figured changing the background color would be the easiest thing to do, so 
+          I made it a pale yellow. It didn't work the first time because I forgot to put # before the hex code. After that I wanted to add style to the 
+          navigation. I looked up what went nice with yellow and chose a dark green. After that, I changed the formatting.
+        </p>
+
+        <!-- Figure out how I'm going to cite stuff -->
+        <p>
+          I'll admit that for the formatting I basically just typed what I found on w3schools.com for horizontal navbar (https://www.w3schools.com/Css/css_navbar_horizontal.asp). 
+          I almost didn't have any hover effects, but I decided it would look more interesting. I decided to have the box turn a much lighter green. Then 
+          I realized that it could make the text hard to read, so I had the text change to a darker grey. I made sure to check their contrast so it'd fit 
+          WCAG. I also made sure to double check my default nav and text color contrast. While that worked, I still ended up with bullet points in the nav.
+        </p>
+
+        <!-- Is the period on the inside or outside of the quotations in these cases -->
+        <p>
+          The first thing I tried was setting "list-type-style" to "none" for ".navigation li". This didn't work, so I went back over my reference website 
+          and realized the actual property was "list-style-type". At this point that I started to add extended descriptions to some of my commits. I wanted 
+          the options to be centered in the navbar, which took me a few tries. I almost decided to ignore it and do it later before realizing I need to add 
+          a "display: flex" property to ".navigation ul". After this I added the "navigation" class to the nav tags on the remaining pages.
+        </p>
+      </div>
     </main>
   </body>
   
